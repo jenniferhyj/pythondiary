@@ -1,7 +1,10 @@
 # pythondiary
+
 ## 專案介紹
+
 我想做個網站!
-##成品展示:
+
+## 成品展示:
 
 ![實際畫面](https://github.com/jenniferhyj/pythondiary/raw/master/%E7%B6%B2%E9%A0%81.png)
 

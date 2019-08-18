@@ -3,7 +3,7 @@
 我想做個網站!
 ##成品展示:
 
-!![]https://github.com/jenniferhyj/pythondiary/raw/master/%E7%B6%B2%E9%A0%81.png
+![實際畫面](https://github.com/jenniferhyj/pythondiary/raw/master/%E7%B6%B2%E9%A0%81.png)
 
 [網站網址](https://final0817--jennifer0625.repl.co/)
 
